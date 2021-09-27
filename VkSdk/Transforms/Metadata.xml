@@ -1,0 +1,13 @@
+﻿<metadata>
+    <attr path="/api/package[@name='com.vk.sdk.api.groups']" name="managedName">VKontakte.API.Groups</attr>
+
+    <add-node path="/api/package[@name='com.vk.api.sdk.chain']">
+      <class abstract="false" deprecated="not deprecated" final="false" name="HttpPostChainCall" static="true" visibility="public" extends="java.lang.Object">
+      </class>
+    </add-node>
+
+    <add-node path="/api/package[@name='com.vk.api.sdk.browser']">
+      <class abstract="false" deprecated="not deprecated" final="false" name="DelimitedVersion" static="true" visibility="public" extends="java.lang.Object">
+      </class>
+    </add-node>
+</metadata>
